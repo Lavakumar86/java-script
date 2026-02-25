@@ -29,3 +29,31 @@ console.log(str.charAt(29));
 console.log(str.charCodeAt("s"));
 
 
+//concat 
+let s1 = "programming language"
+console.log(str.concat(s1));
+
+//to uppercase
+console.log(s1.toUpperCase());
+
+//inclues
+console.log(s1.includes("o"));
+
+//starts-with
+//ends-with
+//replace
+//replace-all
+//trim
+//trim-start
+//trim-end
+//repeat
+//pad-start
+//pad-end
+//slice
+//sub-string
+//split
+
+
+
+
+
