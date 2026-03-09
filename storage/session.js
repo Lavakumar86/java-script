@@ -19,3 +19,4 @@ let strobj = sessionStorage.setItem("person",JSON.stringify(person));
  let parse = JSON.parse(sessionStorage.getItem("person"));
 console.log(parse);
  sessionStorage.removeItem("person")
+ 
